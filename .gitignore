@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.virtualenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE folders (optional)
+.vscode/
+.idea/

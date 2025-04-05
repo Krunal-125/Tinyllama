@@ -1,0 +1,20 @@
+OWASP Top 10 - 2021:
+
+1. Broken Access Control: Restrictions on what authenticated users are allowed to do are not properly enforced.
+2. Cryptographic Failures: Sensitive data is not properly protected in transit or at rest.
+3. Injection: Untrusted data is sent to an interpreter as part of a command or query.
+4. Insecure Design: Weaknesses due to missing or ineffective security controls in software design.
+5. Security Misconfiguration: Insecure default configurations, incomplete or ad hoc configurations.
+6. Vulnerable and Outdated Components: Using components with known vulnerabilities.
+7. Identification and Authentication Failures: Weaknesses in authentication and session management.
+8. Software and Data Integrity Failures: Code and infrastructure not protected from integrity violations.
+9. Security Logging and Monitoring Failures: Insufficient logging, detection, and alerting.
+10. Server-Side Request Forgery (SSRF): The application fetches a remote resource without validating the user-supplied URL.
+
+Secure programming practices include:
+- Validating and sanitizing all inputs.
+- Using HTTPS and strong encryption.
+- Limiting user permissions and access.
+- Keeping dependencies and libraries updated.
+- Avoiding hardcoded secrets and credentials.
+- Writing unit tests for security-related code paths.
