@@ -1,0 +1,21 @@
+# --- Python virtual environments ---
+venv/
+.venv/
+ENV/
+env/
+.ENV/
+.virtualenv/
+
+# --- Python bytecode/cache ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+
+# --- Data and model folders ---
+data/
+Tinyllama/  # Ignore model weights only
+!Tinyllama/        # Keep model folder
+
+

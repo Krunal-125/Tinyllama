@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+transformers
+huggingface_hub
+ctransformers
+evaluate
+bert_score
+pdfminer.six==20221105
+accelerate
