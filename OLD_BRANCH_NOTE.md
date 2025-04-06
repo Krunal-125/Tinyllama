@@ -1,1 +1,1 @@
-This is the old version with Falcon and Mistral examples.
+This is the legacy Falcon7B/Mistral7B version.
