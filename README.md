@@ -1,3 +1,4 @@
+By Prof. Robert Aufschläger
 #### **Project Title**  
 **Security Trainer Chatbot for the Lecture on Secure Programming (SECTRAIN)**  
 
