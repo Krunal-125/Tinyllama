@@ -5,8 +5,10 @@ Repo: https://github.com/Krunal-125/Tinyllama
 This project is a lightweight, locally operable Retrieval-Augmented Generation (RAG) assistant powered by TinyLlama, optimized for secure programming education on low-resource devices.
 
 Branch Descriptions
-	•	main – This is the current and production-ready version of the SECTRAIN TinyLlama RAG assistant. It uses a small, locally runnable model (TinyLlama-1.1B-Chat-v1.0) and is trained on OWASP_Code_Review_Guide_v2.pdf. This version is optimized for low-resource environments like laptops with 8 GB RAM.
-	•	old-version – This branch contains early experimental implementations using large models like Falcon-7B-Instruct and Mistral-7B-Instruct via the HuggingFace Inference API. These tests worked only on small inputs and were limited by API constraints and local memory usage. This branch is preserved for reference.
+	
+ •	main – This is the current and production-ready version of the SECTRAIN TinyLlama RAG assistant. It uses a small, locally runnable model (TinyLlama-1.1B-Chat-v1.0) and is trained on OWASP_Code_Review_Guide_v2.pdf. This version is optimized for low-resource environments like laptops with 8 GB RAM.
+	
+ •	old-version – This branch contains early experimental implementations using large models like Falcon-7B-Instruct and Mistral-7B-Instruct via the HuggingFace Inference API. These tests worked only on small inputs and were limited by API constraints and local memory usage. This branch is preserved for reference.
 
 
 ---
